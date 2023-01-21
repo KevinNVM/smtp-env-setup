@@ -1,7 +1,7 @@
 # smtp-env-setup
 setup email smtp gmail utk aplikasi php (laravel, etc)
 
-# How-to
+## How-to
 
 How to get security key for your gmail account:
 
